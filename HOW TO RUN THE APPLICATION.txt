@@ -1,0 +1,12 @@
+TO RUN THE APPLICATION:
+
+1. Install required libraries for python in cmd/terminal in visual studio code
+- pip install requests
+- pip install pytz
+- pip install opencv-python
+- pip install PySide6
+2. Get OPENWEATHERMAP api key and EXCHANGERATE api key
+3. download video background(suggest website: "Pixabay. com") for weather condition base
+   the description and name all videos(light_rain.mp4, rainy.mp4, cloudy.mp4, clear.mp4,
+   default2.mp4, snow.mp4) and place all video files into library named "VIDEOS" library.
+4. Run the application in python IDE or Visual Studio Code. 
